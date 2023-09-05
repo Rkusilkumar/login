@@ -1,0 +1,52 @@
+/* Login Container */
+.login-container {
+    background-color: #1e2124;
+    color: white;
+    padding: 20px;
+    width: 300px;
+    margin: 0 auto;
+    text-align: center;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  /* Login Title */
+  .login-title {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  /* Form Group */
+  .form-group {
+    margin-bottom: 10px;
+  }
+  
+  /* Form Label */
+  .form-label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  /* Form Input */
+  .form-input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  /* Login Button */
+  .login-button {
+    background-color: #1db954;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  /* Login Button Hover Effect */
+  .login-button:hover {
+    background-color: #1ed760;
+  }
+  
